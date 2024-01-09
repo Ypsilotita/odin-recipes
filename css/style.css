@@ -8,15 +8,22 @@
     font-weight: bolder;
 }
 
-.ulist,
-.olist {
+ul,
+ol {
     color: green;
     background-color: aquamarine;
     list-style-position: inside;
 }
 
 ul {
-    margin-left: 100px;
-    margin-right: 100px;
     list-style-type: circle;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #d9b3ff;
+}
+
+ol {
+    font-size: 18px;
 }

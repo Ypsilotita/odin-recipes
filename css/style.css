@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.header {
+    color: #d9b3ff;
+    font-weight: bolder;
+}
+
+.ulist,
+.olist {
+    color: green;
+    background-color: aquamarine;
+    list-style-position: inside;
+}
+
+ul {
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: circle;
+}

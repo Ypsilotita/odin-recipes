@@ -27,3 +27,7 @@ ul {
 ol {
     font-size: 18px;
 }
+
+#box-list {
+    border-style: dashed;
+}

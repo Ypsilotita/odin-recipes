@@ -1,11 +1,17 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    line-height: 1.4;
 }
 
 .header {
     color: #d9b3ff;
     font-weight: bolder;
+    font-size: 26px;
+}
+
+h1.header {
+    font-size: 48px;
 }
 
 ul,
@@ -22,12 +28,19 @@ ul {
     border-style: dotted;
     border-width: 10px;
     border-color: #d9b3ff;
+    padding: 30px;
 }
 
 ol {
-    font-size: 18px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
 }
 
 #box-list {
     border-style: dashed;
+    border-width: 8px;
+    border-color: #d9b3ff;
+    margin-left: 250px;
+    margin-right: 250px;
 }
